@@ -22,7 +22,7 @@ Fully responsive and easy to customize for your own personal profile.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-resume.git
+git clone https://github.com/KtLN2k/React-Interactive-Resume.git
 cd react-resume
 ```
 
